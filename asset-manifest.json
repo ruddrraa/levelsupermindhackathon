@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/levelsupermindhackathon/static/css/main.b8a1489f.css",
+    "main.js": "/levelsupermindhackathon/static/js/main.f6719955.js",
+    "static/js/358.9ea04e7f.chunk.js": "/levelsupermindhackathon/static/js/358.9ea04e7f.chunk.js",
+    "index.html": "/levelsupermindhackathon/index.html",
+    "main.b8a1489f.css.map": "/levelsupermindhackathon/static/css/main.b8a1489f.css.map",
+    "main.f6719955.js.map": "/levelsupermindhackathon/static/js/main.f6719955.js.map",
+    "358.9ea04e7f.chunk.js.map": "/levelsupermindhackathon/static/js/358.9ea04e7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a1489f.css",
+    "static/js/main.f6719955.js"
+  ]
+}
